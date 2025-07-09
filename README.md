@@ -1,4 +1,7 @@
-# Automated Bots - Easy Apply Jobs Bot 🤖 - https://www.automated-bots.com/
+# Automated Bots
+<!-- # Automated Bots - Easy Apply Jobs Bot 🤖 - https://www.automated-bots.com/
+
+
 
 ![linkedineasyapplygif](https://user-images.githubusercontent.com/34207598/128695728-6efcb457-0f75-42e2-987a-f7a0c239a235.gif)
 A python bot to apply all Linkedin Easy Apply jobs based on your preferences.
@@ -220,4 +223,4 @@ We currently support the sites we sell in our shop. Please check our shop in ord
 
 Special thanks to all the contributors who are constantly helping and keeping this repository active. Your contributions, whether they're bug reports, feature suggestions, or code improvements, are greatly appreciated. We couldn't do this without you!
 
-- Thanks a lot [@GabrielGircenko](https://github.com/GabrielGircenko) for putting his time and huge experince on this project. Please make sure to check his repo https://github.com/GabrielGircenko/EasyApplyJobsBot
+- Thanks a lot [@GabrielGircenko](https://github.com/GabrielGircenko) for putting his time and huge experince on this project. Please make sure to check his repo https://github.com/GabrielGircenko/EasyApplyJobsBot -->
